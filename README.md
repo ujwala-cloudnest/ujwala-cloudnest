@@ -10,8 +10,6 @@
 - Python
 - SQL
 - DBMS
-- Data Warehouse Management 
-- Visual Programming
 - Linux
 - Git & GitHub
 - Cloud Computing
